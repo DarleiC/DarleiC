@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/DarleiC">
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarleiC&layout=compact&theme=dracula" alt="Darlei's most languages"/>
-<img width="360em" src="https://github-readme-stats.vercel.app/api?username=DarleiC&show_icons=true&theme=dracula" alt="DarleiC's stats"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarleiC&layout=compact&theme=vision-friendly-dark" alt="Darlei's most languages"/>
+<img width="360em" src="https://github-readme-stats.vercel.app/api?username=DarleiC&show_icons=true&theme=vision-friendly-dark" alt="DarleiC's stats"/>
 </p>
