@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 #
 
 <p align="left">
+<a href="https://github.com/DarleiC">
 <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarleiC&layout=compact&theme=dracula" alt="Darlei's most languages"/>
 <img width="360em" src="https://github-readme-stats.vercel.app/api?username=DarleiC&show_icons=true&theme=dracula" alt="DarleiC's stats"/>
 </p>
