@@ -1,6 +1,7 @@
-### Hello World! 👋
-
-- 🌱 I’m currently learning Software Quality Engineer
+### Hello World! 👋 ..Testing 1, 2, 3!!
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/824243932576743426/954963438004748308/2642257.png">
+- 🌱 I’m currently learning **Software Quality Engineer**, **Python**
+- 🦄 UX/UI Enthusiastic
 
 <!--
 **DarleiC/DarleiC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
