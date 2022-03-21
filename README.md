@@ -37,4 +37,4 @@ Here are some ideas to get you started:
  ##
   
 <a href="https://www.linkedin.com/in/darlei-castro-3763a0163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/Standby_87" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/Standby_87" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
