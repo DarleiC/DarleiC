@@ -1,7 +1,7 @@
 ### Hello World! 👋 ..Testing 1, 2, 3!!
 <img align="right" alt="Darlei-pic" height="150" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/959133673939140609/962091611779633232/2642257.png">
 
-- 🌱 I’m currently learning **Software Quality Engineer**, **Python**
+- 🚀 **Software Quality Engineer**
 - 🦄 UX/UI Enthusiastic
 
 <!--
