@@ -1,5 +1,5 @@
 ### Hello World! 👋 ..Testing 1, 2, 3!!
-<img align="right" alt="Darlei-pic" height="150" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/959133673939140609/962091611779633232/2642257.png?ex=66199e23&is=66072923&hm=77516f5a88d55ce344621391bb637cd1899f5a8ec12654c62c2052da461f8e92&">
+<img align="right" alt="Darlei-pic" height="150" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/959133673939140609/962091611779633232/2642257.png?ex=6628c763&is=662775e3&hm=65bc04de6b457e720537daa6af79a18b0a9c16e3689b95767fe5e3a032487665&">
 
 - 🚀 **Software Quality Engineer**
 - 🦄 UX/UI Enthusiastic
